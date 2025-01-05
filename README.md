@@ -14,9 +14,16 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
+**Minimization F1**
 
-**Logic Diagram**
+![image](https://github.com/user-attachments/assets/2fdc20d7-d235-4804-af99-9fd21fcbd2e9)
+![image](https://github.com/user-attachments/assets/50b2b55c-c6e6-4521-af52-868b53774afd)
+
+
+**Truth table**
+
+![image](https://github.com/user-attachments/assets/337527a4-fcac-40e2-b3f8-0206013652e3)
+
 
 **Procedure**
 
@@ -56,20 +63,17 @@ endmodule
 ```
 
 Developed by:Prathikshaa.S  RegisterNumber:24007902
-![image](https://github.com/user-attachments/assets/59993c6f-167f-498e-95cb-e4cb9aa22ad7)
-
-**RTL realization**
-![image](https://github.com/user-attachments/assets/7b96f169-7298-49c1-8d11-0177911bcdad)
-
-**Output:**
-
 
 
 **RTL**
-![image](https://github.com/user-attachments/assets/91bc953b-ae63-4a17-8f19-8921557086fe)
 
+![image](https://github.com/user-attachments/assets/335f2f62-4692-4606-9fcb-38adbb4b2ef4)
+![image](https://github.com/user-attachments/assets/7bd735af-078a-48b6-bcdc-4d3f4f989796)
 
-**Timing Diagram**
+**Output**
+
+![image](https://github.com/user-attachments/assets/fe5af590-3cfc-41e9-96cb-438b7dece3b2)
+
 
 **Result:**
 
